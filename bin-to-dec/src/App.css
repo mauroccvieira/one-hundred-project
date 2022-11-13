@@ -1,0 +1,7 @@
+body {
+  --background: #2e2e2e;
+  --textColor: #fff;
+  --textHighlight: #c4c4c4;
+  --error: hwb(0 45% 7%);
+  background: var(--background);
+}
